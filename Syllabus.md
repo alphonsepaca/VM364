@@ -146,124 +146,121 @@ It is the responsibility of all Emerson students to know and adhere to the Colle
 Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Students will be treated fairly regardless of race, religion, sexual orientation, gender identification, disability, socio-economic status, or national identity. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Office of Diversity and Inclusion at 617-824-8528 or by email at diversity_inclusion@emerson.edu 
 
 
-Wednesday January 21st
+###Wednesday January 21st
 * Introductions
 * Syllabus
 * GitHub / GitHub Education Pack
 * Assignment: Hard drives
 
-Monday January 26th
+###Monday January 26th
 * Lesson 1
 
-Wednesday January 28th
+###Wednesday January 28th
 * Lesson 2
 
-Monday February 2nd
+###Monday February 2nd
 * Lesson 3
 * Reading Assignment: “The Design Process” by Salen & Zimmerman
 
-Wednesday February 4th
+###Wednesday February 4th
 * Lesson 4
 * Reading Assignment: “What is a game” by Salen & Zimmerman
 
 
-Monday February 9th
+###Monday February 9th
 * Game design fundamentals Part I
 * Guest Speaker
 
-Wednesday February 11th
+###Wednesday February 11th
 * Game design fundamentals Part II
 * Guest Speaker
 
-Monday February 16th
+###Monday February 16th
 President’s Day No Class
 
-Tuesday February 17th
+###Tuesday February 17th
 * Open Lab: Work on Projects
 * Event Presentation
 
-Wednesday February 18th
+###Wednesday February 18th
 * Open Lab: Work on Projects
 * Event Presentation
 * Reading Assignment: TBD 
 
-Monday February 23rd
+###Monday February 23rd
 * Open Lab: Work on Projects
 * Event Presentation
 
-Wednesday February 25th
+###Wednesday February 25th
 * Open Lab: Work on Projects
 * Event Presentation
 
-
-Monday March 2nd
+###Monday March 2nd
 * Due Project – 1
 * Critique Project 1
 
-Wednesday March 4th
+###Wednesday March 4th
 * Open Lab: Work on Projects
 * Event Presentation
 
-Monday March 9th
+###Monday March 9th
 Spring Break No Class
 
-Wednesday March 11th
+###Wednesday March 11th
 Spring Break No Class
 
-Monday March 16th
+###Monday March 16th
 * Open Lab: Work on Project
 * Reading Assignment: TBD 
 
-
-Wednesday March 18th
+###Wednesday March 18th
 * Open Lab: Work on Project
 * Reading Assignment: TBD 
 
-
-Monday March 23rd
+###Monday March 23rd
 * Open Lab: Work on Project
 
-Wednesday March 25th
+###Wednesday March 25th
 * Due Software Training
 * Due Project 2
 * Project 2 Critique
 
-Monday March 30th
+###Monday March 30th
 * Lesson 5
 
-Wednesday April 1st
+###Wednesday April 1st
 * Lesson 6
 
-Monday April 6th
+###Monday April 6th
 * Research Assignments Due
 * Research Assignment Presentations
 
-Wednesday April 8th
+###Wednesday April 8th
 * Lesson 7
 
-Monday April 13th
+###Monday April 13th
 * Lesson 8
 
-Wednesday April 15th
+###Wednesday April 15th
 * Open Lab: Work on Final Projects
 
-Monday April 20th
+###Monday April 20th
 Patriots Day No Class
 
-Wednesday April 22nd
+###Wednesday April 22nd
 Monday Class Schedule
 * Open Lab: Work on Final Projects
 * Event Presentation
 
-Monday April 27th
+###Monday April 27th
 * Open Lab: Work on Final Projects
 * Event Presentation
 
-Wednesday April 29th
+###Wednesday April 29th
 * Open Lab: Work on Final Projects
 * Event Presentation
 
-Final Exam Monday May 4th 8:00 AM
+###Final Exam Monday May 4th 8:00 AM
 * Due: Final Project
 * Critique Final Project
 
