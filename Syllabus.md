@@ -1,8 +1,8 @@
 #Syllabus
 
-Spring 2015
-
 VM364 – 3D Computer Gaming
+
+Spring 2015
 
 Course Credits:  4.000
 
@@ -99,14 +99,16 @@ Paper-prototype – Groups must propose a 3D digital game. Based on this game gr
 
 Game Design Document – Groups must propose a 3D digital game. Based on this game groups must create written design documentation. Templates for documentation will be provided. A power point based on the final design documentation will be presented in class.
 
-Grading criteria for Project 1 is based on the following:
+Grading criteria for Project 2 is based on the following:
 	
-*The written documentation must clearly elucidate the proposed game or the iterative design process of the prototype. Points will be deducted for grammar and spelling errors.
-*The quality of the presentation of the paper-prototype or design documentation. 
+* The written documentation must clearly elucidate the proposed game or the iterative design process of the prototype. Points will be deducted for grammar and spelling errors.
+* The quality of the presentation of the paper-prototype or design documentation. 
 
-###Research Assignment / Presentation: Pick one aspect of your final project development that you know nothing about. Research best practice for this and present it to the class. Resources should be development forums such as the Unity forum or Stack Overflow.
+###Research Assignment / Presentation: 
 
-This is not a traditional research paper. You only need to present best practice for the development of your research topic and cite this best practice.If you cannot determine best practice then argue for the method that you will use.
+Pick one aspect of your final project that relates to game development. Research best practice for this and present it to the class. Resources should be development forums such as the Unity forum or Stack Overflow.
+
+This is not a traditional research paper. You only need to present best practice for the development of your research topic and cite why this best practice. If you cannot determine best practice then argue for the method that you will use.
 
 The research assignment needs to be written in markdown language and uploaded to GitHub.
 
@@ -151,6 +153,7 @@ Every student in this class will be honored and respected as an individual with 
 * Syllabus
 * GitHub / GitHub Education Pack
 * Assignment: Hard drives
+* Software Training: Unity 3D 3.5 essential training through 1. Exploring Unity 3D.
 
 ###Monday January 26th
 * Lesson 1
@@ -160,7 +163,6 @@ Every student in this class will be honored and respected as an individual with 
 
 ###Monday February 2nd
 * Lesson 3
-* Reading Assignment: “The Design Process” by Salen & Zimmerman
 
 ###Wednesday February 4th
 * Lesson 4
@@ -211,11 +213,11 @@ Spring Break No Class
 
 ###Monday March 16th
 * Open Lab: Work on Project
-* Reading Assignment: TBD 
+* Reading Assignment: “The Design Process” by Salen & Zimmerman & "Play as Research"  by Zimmerman
 
 ###Wednesday March 18th
 * Open Lab: Work on Project
-* Reading Assignment: TBD 
+
 
 ###Monday March 23rd
 * Open Lab: Work on Project
