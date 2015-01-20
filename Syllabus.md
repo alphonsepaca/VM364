@@ -47,9 +47,9 @@ Students are required to complete the following software training. If a student 
 
 Required from Lynda.com
 
-*Unity 3D essential Training: 
-*Game Prop Creation in Maya: Introduction, 1. Modeling a Large Prop: Gas Pump,  2. Texturing the Gas Pump, 
-*Game Character Creation in Maya: 1. Overview of Maya Modeling; Setting up scene folders (Maya and Unity)
+* Unity 3D essential Training: 
+* Game Prop Creation in Maya: Introduction, 1. Modeling a Large Prop: Gas Pump,  2. Texturing the Gas Pump, 
+* Game Character Creation in Maya: 1. Overview of Maya Modeling; Setting up scene folders (Maya and Unity)
 
 
 ##Reading:
@@ -63,13 +63,13 @@ Firewire or USB 2.0 External HD with minimum 40 GB of storage.
 
 ##Grading:
 
-*Project 1- 20%
-*Project 2- 20%
-*Research Assignment / Presentation- 5%
-*Software Training-10%
-*Participation and Attendance – 10%
-*Event Presentation – 5%
-*Final Project- 30%
+* Project 1- 20%
+* Project 2- 20%
+* Research Assignment / Presentation- 5%
+* Software Training-10%
+* Participation and Attendance – 10%
+* Event Presentation – 5%
+* Final Project- 30%
 
 Grading criteria for will be described below with each assignment.
 
@@ -87,9 +87,9 @@ Projects that are not in the above format or that are turned in late will receiv
 
 Grading criteria for Project 1 is based on the following:
 
-*Technical: Does the work show a technical understanding of the tutorials and lessons?
-*Creative: Does the work diverge from the tutorials and lessons?
-*Aesthetic: Do the aesthetics of the work evoke an intellectual or emotional response?
+* Technical: Does the work show a technical understanding of the tutorials and lessons?
+* Creative: Does the work diverge from the tutorials and lessons?
+* Aesthetic: Do the aesthetics of the work evoke an intellectual or emotional response?
 
 ###Project 2: 
 
@@ -147,62 +147,62 @@ Every student in this class will be honored and respected as an individual with 
 
 
 Wednesday January 21st
-*Introductions
-*Syllabus
-*GitHub / GitHub Education Pack
-*Assignment: Hard drives
+* Introductions
+* Syllabus
+* GitHub / GitHub Education Pack
+* Assignment: Hard drives
 
 Monday January 26th
-*Lesson 1
+* Lesson 1
 
 Wednesday January 28th
-*Lesson 2
+* Lesson 2
 
 Monday February 2nd
-*Lesson 3
-*Reading Assignment: “The Design Process” by Salen & Zimmerman
+* Lesson 3
+* Reading Assignment: “The Design Process” by Salen & Zimmerman
 
 Wednesday February 4th
-*Lesson 4
-*Reading Assignment: “What is a game” by Salen & Zimmerman
+* Lesson 4
+* Reading Assignment: “What is a game” by Salen & Zimmerman
 
 
 Monday February 9th
-*Game design fundamentals Part I
-*Guest Speaker
+* Game design fundamentals Part I
+* Guest Speaker
 
 Wednesday February 11th
-*Game design fundamentals Part II
-*Guest Speaker
+* Game design fundamentals Part II
+* Guest Speaker
 
 Monday February 16th
 President’s Day No Class
 
 Tuesday February 17th
-*Open Lab: Work on Projects
-*Event Presentation
+* Open Lab: Work on Projects
+* Event Presentation
 
 Wednesday February 18th
-*Open Lab: Work on Projects
-*Event Presentation
-*Reading Assignment: TBD 
+* Open Lab: Work on Projects
+* Event Presentation
+* Reading Assignment: TBD 
 
 Monday February 23rd
-*Open Lab: Work on Projects
-*Event Presentation
+* Open Lab: Work on Projects
+* Event Presentation
 
 Wednesday February 25th
-*Open Lab: Work on Projects
-*Event Presentation
+* Open Lab: Work on Projects
+* Event Presentation
 
 
 Monday March 2nd
-*Due Project – 1
-*Critique Project 1
+* Due Project – 1
+* Critique Project 1
 
 Wednesday March 4th
-*Open Lab: Work on Projects
-*Event Presentation
+* Open Lab: Work on Projects
+* Event Presentation
 
 Monday March 9th
 Spring Break No Class
@@ -211,61 +211,61 @@ Wednesday March 11th
 Spring Break No Class
 
 Monday March 16th
-*Open Lab: Work on Project
-*Reading Assignment: TBD 
+* Open Lab: Work on Project
+* Reading Assignment: TBD 
 
 
 Wednesday March 18th
-*Open Lab: Work on Project
-*Reading Assignment: TBD 
+* Open Lab: Work on Project
+* Reading Assignment: TBD 
 
 
 Monday March 23rd
-*Open Lab: Work on Project
+* Open Lab: Work on Project
 
 Wednesday March 25th
-*Due Software Training
-*Due Project 2
-*Project 2 Critique
+* Due Software Training
+* Due Project 2
+* Project 2 Critique
 
 Monday March 30th
-*Lesson 5
+* Lesson 5
 
 Wednesday April 1st
-*Lesson 6
+* Lesson 6
 
 Monday April 6th
-*Research Assignments Due
-*Research Assignment Presentations
+* Research Assignments Due
+* Research Assignment Presentations
 
 Wednesday April 8th
-*Lesson 7
+* Lesson 7
 
 Monday April 13th
-*Lesson 8
+* Lesson 8
 
 Wednesday April 15th
-*Open Lab: Work on Final Projects
+* Open Lab: Work on Final Projects
 
 Monday April 20th
 Patriots Day No Class
 
 Wednesday April 22nd
 Monday Class Schedule
-*Open Lab: Work on Final Projects
-*Event Presentation
+* Open Lab: Work on Final Projects
+* Event Presentation
 
 Monday April 27th
-*Open Lab: Work on Final Projects
-*Event Presentation
+* Open Lab: Work on Final Projects
+* Event Presentation
 
 Wednesday April 29th
-*Open Lab: Work on Final Projects
-*Event Presentation
+* Open Lab: Work on Final Projects
+* Event Presentation
 
 Final Exam Monday May 4th 8:00 AM
-*Due: Final Project
-*Critique Final Project
+* Due: Final Project
+* Critique Final Project
 
 
 
