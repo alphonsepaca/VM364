@@ -24,21 +24,21 @@ Class time is spent learning game design and development fundamentals through in
 
 ##Learning Objectives:
 
-•	To develop students’ skills in 3D computer game design and development.
-•	To develop students’ understanding of 3D game project management and workflow.
-•	To introduce students to object oriented programming.
-•	To assist students in further developing analytical thinking and systems thinking.
-•	To introduce students to both commercial and indie areas of the game industry.
+*To develop students’ skills in 3D computer game design and development.
+*To develop students’ understanding of 3D game project management and workflow.
+*To introduce students to object oriented programming.
+*To assist students in further developing analytical thinking and systems thinking.
+*To introduce students to both commercial and indie areas of the game industry.
 
 ##Requirements:
 
-•	Attend every class.
-•	Attend and present on one outside of class activity that is related to game design / development.
-•	Complete required software training.
-•	Complete required reading.
-•	Complete and present two projects.
-•	Complete and present a research assignment.
-•	Design, develop, and present the final project.
+*Attend every class.
+*Attend and present on one outside of class activity that is related to game design / development.
+*Complete required software training.
+*Complete required reading.
+*Complete and present two projects.
+*Complete and present a research assignment.
+*Design, develop, and present the final project.
 
 
 ##Software Training:
@@ -47,9 +47,9 @@ Students are required to complete the following software training. If a student 
 
 Required from Lynda.com
 
-•	Unity 3D essential Training: 
-•	Game Prop Creation in Maya: Introduction, 1. Modeling a Large Prop: Gas Pump,  2. Texturing the Gas Pump, 
-•	Game Character Creation in Maya: 1. Overview of Maya Modeling; Setting up scene folders (Maya and Unity)
+*Unity 3D essential Training: 
+*Game Prop Creation in Maya: Introduction, 1. Modeling a Large Prop: Gas Pump,  2. Texturing the Gas Pump, 
+*Game Character Creation in Maya: 1. Overview of Maya Modeling; Setting up scene folders (Maya and Unity)
 
 
 ##Reading:
@@ -63,19 +63,21 @@ Firewire or USB 2.0 External HD with minimum 40 GB of storage.
 
 ##Grading:
 
-•	Project 1- 20%
-•	Project 2- 20%
-•	Research Assignment / Presentation- 5%
-•	Software Training-10%
-•	Participation and Attendance – 10%
-•	Event Presentation – 5%
-•	Final Project- 30%
+*Project 1- 20%
+*Project 2- 20%
+*Research Assignment / Presentation- 5%
+*Software Training-10%
+*Participation and Attendance – 10%
+*Event Presentation – 5%
+*Final Project- 30%
 
 Grading criteria for will be described below with each assignment.
 
 ##Assignments:
 
-###Project 1:  Create a 3D environment in Unity that can be navigated by the first person controller. Your understanding of the lessons and software training must be present in your work.
+###Project 1:  
+
+Create a 3D environment in Unity that can be navigated by the first person controller. Your understanding of the lessons and software training must be present in your work.
 
 Wherever possible use your own work for all game assets. Work that diverges most from the tutorials and support files will receive the highest grades.
 
@@ -85,11 +87,13 @@ Projects that are not in the above format or that are turned in late will receiv
 
 Grading criteria for Project 1 is based on the following:
 
-•	Technical: Does the work show a technical understanding of the tutorials and lessons?
-•	Creative: Does the work diverge from the tutorials and lessons?
-•	Aesthetic: Do the aesthetics of the work evoke an intellectual or emotional response?
+*Technical: Does the work show a technical understanding of the tutorials and lessons?
+*Creative: Does the work diverge from the tutorials and lessons?
+*Aesthetic: Do the aesthetics of the work evoke an intellectual or emotional response?
 
-###Project 2: This is a group project. Based on the readings and guest speakers groups must make either a paper-prototype or a game design document.
+###Project 2: 
+
+This is a group project. Based on the readings and guest speakers groups must make either a paper-prototype or a game design document.
 
 Paper-prototype – Groups must propose a 3D digital game. Based on this game groups must create a playable paper-prototype and written documentation of the iterative design process. The paper-prototype and written documentation will be presented in class.
 
@@ -97,8 +101,8 @@ Game Design Document – Groups must propose a 3D digital game. Based on this ga
 
 Grading criteria for Project 1 is based on the following:
 	
-•	The written documentation must clearly elucidate the proposed game or the iterative design process of the prototype. Points will be deducted for grammar and spelling errors.
-•	The quality of the presentation of the paper-prototype or design documentation. 
+*The written documentation must clearly elucidate the proposed game or the iterative design process of the prototype. Points will be deducted for grammar and spelling errors.
+*The quality of the presentation of the paper-prototype or design documentation. 
 
 ###Research Assignment / Presentation: Pick one aspect of your final project development that you know nothing about. Research best practice for this and present it to the class. Resources should be development forums such as the Unity forum or Stack Overflow.
 
@@ -106,13 +110,19 @@ This is not a traditional research paper. You only need to present best practice
 
 The research assignment needs to be written in markdown language and uploaded to GitHub.
 
-###Participation and Attendance: Two or more unexcused absences will result in the deduction of 10% of the overall grade for the course. Five or more unexcused absences will result in a failing grade.
+###Participation and Attendance: 
+
+Two or more unexcused absences will result in the deduction of 10% of the overall grade for the course. Five or more unexcused absences will result in a failing grade.
 
 Students are expected to participate during in-class discussion and critique. 
 
-###Event Presentation: Attend a game related event and write a short synopsis in markdown language of your experience. Upload this synopsis to your GitHub and present it to the class.
+###Event Presentation: 
 
-###Final Project: This can be a group or individual project. Propose, design, and develop a portfolio ready 3D digital game.  
+Attend a game related event and write a short synopsis in markdown language of your experience. Upload this synopsis to your GitHub and present it to the class.
+
+###Final Project: 
+
+This can be a group or individual project. Propose, design, and develop a portfolio ready 3D digital game.  
 
 Individual - Grading will be based on your completed project. You will be evaluated on originality, creativity, and technical expertise.
 
@@ -137,62 +147,62 @@ Every student in this class will be honored and respected as an individual with 
 
 
 Wednesday January 21st
-•	Introductions
-•	Syllabus
-•	GitHub / GitHub Education Pack
-•	Assignment: Hard drives
+*Introductions
+*Syllabus
+*GitHub / GitHub Education Pack
+*Assignment: Hard drives
 
 Monday January 26th
-•	Lesson 1
+*Lesson 1
 
 Wednesday January 28th
-•	Lesson 2
+*Lesson 2
 
 Monday February 2nd
-•	Lesson 3
-•	Reading Assignment: “The Design Process” by Salen & Zimmerman
+*Lesson 3
+*Reading Assignment: “The Design Process” by Salen & Zimmerman
 
 Wednesday February 4th
-•	Lesson 4
-•	Reading Assignment: “What is a game” by Salen & Zimmerman
+*Lesson 4
+*Reading Assignment: “What is a game” by Salen & Zimmerman
 
 
 Monday February 9th
-•	Game design fundamentals Part I
-•	Guest Speaker
+*Game design fundamentals Part I
+*Guest Speaker
 
 Wednesday February 11th
-•	Game design fundamentals Part II
-•	Guest Speaker
+*Game design fundamentals Part II
+*Guest Speaker
 
 Monday February 16th
 President’s Day No Class
 
 Tuesday February 17th
-•	Open Lab: Work on Projects
-•	Event Presentation
+*Open Lab: Work on Projects
+*Event Presentation
 
 Wednesday February 18th
-•	Open Lab: Work on Projects
-•	Event Presentation
-•	Reading Assignment: TBD 
+*Open Lab: Work on Projects
+*Event Presentation
+*Reading Assignment: TBD 
 
 Monday February 23rd
-•	Open Lab: Work on Projects
-•	Event Presentation
+*Open Lab: Work on Projects
+*Event Presentation
 
 Wednesday February 25th
-•	Open Lab: Work on Projects
-•	Event Presentation
+*Open Lab: Work on Projects
+*Event Presentation
 
 
 Monday March 2nd
-•	Due Project – 1
-•	Critique Project 1
+*Due Project – 1
+*Critique Project 1
 
 Wednesday March 4th
-•	Open Lab: Work on Projects
-•	Event Presentation
+*Open Lab: Work on Projects
+*Event Presentation
 
 Monday March 9th
 Spring Break No Class
@@ -201,61 +211,61 @@ Wednesday March 11th
 Spring Break No Class
 
 Monday March 16th
-•	Open Lab: Work on Project
-•	Reading Assignment: TBD 
+*Open Lab: Work on Project
+*Reading Assignment: TBD 
 
 
 Wednesday March 18th
-•	Open Lab: Work on Project
-•	Reading Assignment: TBD 
+*Open Lab: Work on Project
+*Reading Assignment: TBD 
 
 
 Monday March 23rd
-•	Open Lab: Work on Project
+*Open Lab: Work on Project
 
 Wednesday March 25th
-•	Due Software Training
-•	Due Project 2
-•	Project 2 Critique
+*Due Software Training
+*Due Project 2
+*Project 2 Critique
 
 Monday March 30th
-•	Lesson 5
+*Lesson 5
 
 Wednesday April 1st
-•	Lesson 6
+*Lesson 6
 
 Monday April 6th
-•	Research Assignments Due
-•	Research Assignment Presentations
+*Research Assignments Due
+*Research Assignment Presentations
 
 Wednesday April 8th
-•	Lesson 7
+*Lesson 7
 
 Monday April 13th
-•	Lesson 8
+*Lesson 8
 
 Wednesday April 15th
-•	Open Lab: Work on Final Projects
+*Open Lab: Work on Final Projects
 
 Monday April 20th
 Patriots Day No Class
 
 Wednesday April 22nd
 Monday Class Schedule
-•	Open Lab: Work on Final Projects
-•	Event Presentation
+*Open Lab: Work on Final Projects
+*Event Presentation
 
 Monday April 27th
-•	Open Lab: Work on Final Projects
-•	Event Presentation
+*Open Lab: Work on Final Projects
+*Event Presentation
 
 Wednesday April 29th
-•	Open Lab: Work on Final Projects
-•	Event Presentation
+*Open Lab: Work on Final Projects
+*Event Presentation
 
 Final Exam Monday May 4th 8:00 AM
-•	Due: Final Project
-•	Critique Final Project
+*Due: Final Project
+*Critique Final Project
 
 
 
