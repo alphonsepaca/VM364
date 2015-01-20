@@ -24,21 +24,21 @@ Class time is spent learning game design and development fundamentals through in
 
 ##Learning Objectives:
 
-*To develop students’ skills in 3D computer game design and development.
-*To develop students’ understanding of 3D game project management and workflow.
-*To introduce students to object oriented programming.
-*To assist students in further developing analytical thinking and systems thinking.
-*To introduce students to both commercial and indie areas of the game industry.
+* To develop students’ skills in 3D computer game design and development.
+* To develop students’ understanding of 3D game project management and workflow.
+* To introduce students to object oriented programming.
+* To assist students in further developing analytical thinking and systems thinking.
+* To introduce students to both commercial and indie areas of the game industry.
 
 ##Requirements:
 
-*Attend every class.
-*Attend and present on one outside of class activity that is related to game design / development.
-*Complete required software training.
-*Complete required reading.
-*Complete and present two projects.
-*Complete and present a research assignment.
-*Design, develop, and present the final project.
+* Attend every class.
+* Attend and present on one outside of class activity that is related to game design / development.
+* Complete required software training.
+* Complete required reading.
+* Complete and present two projects.
+* Complete and present a research assignment.
+* Design, develop, and present the final project.
 
 
 ##Software Training:
