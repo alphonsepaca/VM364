@@ -34,6 +34,12 @@ A distributed version control system.
 
 GitHub file size limit: 100mb
 
+## vi editor commands
+*type vi <filename> to open file
+*i - insert
+*esc
+*:wq 
+
 
 ## Unity Concepts:
 
