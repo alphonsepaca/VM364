@@ -10,6 +10,7 @@ GitHub tutorial video Part II: [Here](https://www.youtube.com/watch?v=oFYyTZwMyA
 
 ## Git Commands we will use for this lesson:
 * git clone
+* git init
 * git status
 * git add filename
 * git add .
