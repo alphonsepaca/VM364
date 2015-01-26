@@ -10,11 +10,16 @@ GitHub tutorial video Part II: [Here](https://www.youtube.com/watch?v=oFYyTZwMyA
 
 GitHub Fork Repository: [Here](https://help.github.com/articles/fork-a-repo/)
 
+Vi documentation: [Here](http://themackhack.blogspot.com/2012/10/mac-osx-terminal-how-to-use-vi-editor.html)
+
 ## Command Line commands we will use for this lesson:
 * ls
 * cd
 * cd ..
 * df
+* mkdir
+* touch
+* rm -Rf
 
 
 ## Git Commands we will use for this lesson:
@@ -35,10 +40,10 @@ A distributed version control system.
 GitHub file size limit: 100mb
 
 ## vi editor commands
-*type vi <filename> to open file
-*i - insert
-*esc
-*:wq 
+* type vi FILENAME to open file
+* i - insert
+* esc
+* :wq 
 
 
 ## Unity Concepts:
