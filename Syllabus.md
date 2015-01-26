@@ -157,7 +157,7 @@ Every student in this class will be honored and respected as an individual with 
 
 ###Monday January 26th
 * Lesson 1
-* Software Training: Unity 3D 3.5 essential training through 3. Creating today's date
+* Software Training: Unity 3D 3.5 essential training through 3. Creating the environment
 
 ###Wednesday January 28th
 * Lesson 2
