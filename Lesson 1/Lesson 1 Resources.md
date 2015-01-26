@@ -8,6 +8,15 @@ GitHub tutorial video Part I: [Here](https://www.youtube.com/watch?v=0fKg7e37bQE
 
 GitHub tutorial video Part II: [Here](https://www.youtube.com/watch?v=oFYyTZwMyAg)
 
+GitHub Fork Repository: [Here](https://help.github.com/articles/fork-a-repo/)
+
+## Command Line commands we will use for this lesson:
+* ls
+* cd
+* cd ..
+* df
+
+
 ## Git Commands we will use for this lesson:
 * git clone
 * git init
