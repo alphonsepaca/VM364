@@ -1,16 +1,11 @@
 # VM364 Lesson 1 Resources
 
-Git Documnetation: [Here](http://git-scm.com/doc)
-
-Markdown documentation: [Here](https://help.github.com/articles/markdown-basics/)
-
-GitHub tutorial video Part I: [Here](https://www.youtube.com/watch?v=0fKg7e37bQE)
-
-GitHub tutorial video Part II: [Here](https://www.youtube.com/watch?v=oFYyTZwMyAg)
-
-GitHub Fork Repository: [Here](https://help.github.com/articles/fork-a-repo/)
-
-Vi documentation: [Here](http://themackhack.blogspot.com/2012/10/mac-osx-terminal-how-to-use-vi-editor.html)
+1. [Git Documnetation](http://git-scm.com/doc)
+2. [Markdown documentation](https://help.github.com/articles/markdown-basics/)
+3. [GitHub tutorial video Part I](https://www.youtube.com/watch?v=0fKg7e37bQE)
+4. [GitHub tutorial video Part II](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+5. [GitHub Fork Repository](https://help.github.com/articles/fork-a-repo/)
+6. [Vi documentation](http://themackhack.blogspot.com/2012/10/mac-osx-terminal-how-to-use-vi-editor.html)
 
 ## Command Line commands we will use for this lesson:
 * ls
