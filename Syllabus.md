@@ -256,6 +256,11 @@ Monday Class Schedule
 * Open Lab: Work on Final Projects
 * Event Presentation
 
+###Saturday April 25th
+Official Makeup Day
+* Open Lab: Work on Final Projects
+* Event Presentation
+
 ###Monday April 27th
 * Open Lab: Work on Final Projects
 * Event Presentation
