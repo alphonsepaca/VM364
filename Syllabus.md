@@ -164,11 +164,12 @@ Every student in this class will be honored and respected as an individual with 
 
 ###Monday February 2nd
 * Lesson 3
+* Important Opportunity: [Mass Digi Summer Innovation Program](http://www.massdigi.org/programs-services/summer-innovation-program/) 
 
 ###Wednesday February 4th
 * Lesson 4
-* Reading Assignment: “What is a game” by Salen & Zimmerman
-
+* Required Reading Assignment: “What is a game” by Salen & Zimmerman
+* Optional Reading Assignments: [Jump into Game Development with Github](http://leereilly.net/2012/05/01/game-development-on-github.html) & [Git and GitHub for Game Developers](http://gamedevelopment.tutsplus.com/tutorials/git-and-github-for-game-developers--gamedev-11507)
 
 ###Monday February 9th
 * Game design fundamentals Part I
