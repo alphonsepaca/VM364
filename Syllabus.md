@@ -165,6 +165,7 @@ Every student in this class will be honored and respected as an individual with 
 ###Monday February 2nd
 * Lesson 3
 * Important Opportunity: [Mass Digi Summer Innovation Program](http://www.massdigi.org/programs-services/summer-innovation-program/) 
+* Important Opportunity: [E3 College Game Competition](http://cdn1.e3expo.com/e3expo15/documents/esaannouncesthirde3collegegamecompetition.pdf?rand=0.483147140856)
 
 ###Wednesday February 4th
 * Lesson 4
@@ -190,6 +191,9 @@ President’s Day No Class
 * Open Lab: Work on Projects
 * Event Presentation
 * Reading Assignment: TBD 
+
+###Saturday February 21st
+* Snow Make Up Day
 
 ###Monday February 23rd
 * Open Lab: Work on Projects
