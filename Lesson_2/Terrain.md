@@ -156,7 +156,6 @@ Menu Bar > Filter > Other Offset = 256×256
 
 Erase seams
 
-
 Menu Bar > File > Save As = My_Terrain/Assets/Custom_Assets/Textures/My_Grass.jpg
 
 Spend time to make Rock_Master.jpg tileable
